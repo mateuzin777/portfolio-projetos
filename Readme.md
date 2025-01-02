@@ -17,4 +17,4 @@ Link do Repositório: https://github.com/mateuzin777/projeto02-Biblioteca.git
 ## Projeto 03 - Gestão De cursos 
 ** Descrição** : Este projeto é um sistema de gestão de cursos desenvolvido com MySQL, que permite o gerenciamento de cursos, aulas, usuários e inscrições. A solução foi projetada para facilitar a administração de um ambiente educacional online, permitindo que os administradores cadastrem cursos, criem aulas associadas a esses cursos, e gerenciem as inscrições de usuários nos cursos disponíveis.
 ** Tecnologias ** : MySQL, Git, GitHub, Etc..
-Link Do Repositório: 
+Link Do Repositório: https://github.com/mateuzin777/gestao_curso.git
