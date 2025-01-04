@@ -11,7 +11,7 @@ Aqui você encontrará todos os meus projetos e contribuições.
 Link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto01_loja_esportiva_virtual
 
 ### Er Diagram : https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%20Er%20Diagram.pdf 
-Link aí 
+
 
 ## Projeto 02 - Biblioteca
 **Descrição**: Este projeto consiste em um sistema de gerenciamento de biblioteca, com funcionalidades para gerenciar livros, autores e empréstimos.  
