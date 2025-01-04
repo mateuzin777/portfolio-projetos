@@ -12,7 +12,7 @@ Link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/mai
 ## Projeto 02 - Biblioteca
 **Descrição**: Este projeto consiste em um sistema de gerenciamento de biblioteca, com funcionalidades para gerenciar livros, autores e empréstimos.  
 **Tecnologias**: MySQL, Git, GitHub, etc.  
-Link do Repositório: https://github.com/mateuzin777/projeto02-Biblioteca.git
+Link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto2-Biblioteca.sql
 
 ## Projeto 03 - Gestão De cursos 
 ** Descrição** : Este projeto é um sistema de gestão de cursos desenvolvido com MySQL, que permite o gerenciamento de cursos, aulas, usuários e inscrições. A solução foi projetada para facilitar a administração de um ambiente educacional online, permitindo que os administradores cadastrem cursos, criem aulas associadas a esses cursos, e gerenciem as inscrições de usuários nos cursos disponíveis.
