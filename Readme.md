@@ -39,7 +39,8 @@ O Sistema de Gestão de Restaurante** visa automatizar o controle de Clientes,Pe
 ## link do Repositório: 
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fprojeto4.sql
 
-Link do Er Diagram : 
+## Link do Er Diagram : 
+https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fprojeto%204%20-%20Er%20Diagram.pdf
 
 
 
