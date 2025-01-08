@@ -29,5 +29,15 @@ link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/mai
 
 ## link Er Diagram : https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2003-Er%20Diagram.Pdf.pdf
 
-##Projeto 04 - Sistema de Gestão de Restaurante 
-**Descrição: 
+
+## Projeto 04 -Sistema de Gestão de Restaurante
+
+##Descrição## :
+O Sistema de Gestão de Restaurante** visa automatizar o controle de Clientes,Pedidos, Funcionários, Pagamentos e Pratos em um ambiente de restaurante. O sistema permite o cadastro de clientes e funcionários, gerenciamento de pedidos e pagamentos, além de organizar o cardápio com pratos e suas categorias, o sistema busca melhorar a eficiência e a organização do estabelecimento.
+** Tecnologias ** : MySQL, Git, GitHub, Etc.
+
+link do Repositório: 
+
+
+
+
