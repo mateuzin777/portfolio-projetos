@@ -29,4 +29,5 @@ link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/mai
 
 ## link Er Diagram : https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2003-Er%20Diagram.Pdf.pdf
 
-##Projeto 04 - Sistema_gestao_restaurante 
+##Projeto 04 - Sistema de Gestão de Restaurante 
+**Descrição: 
