@@ -28,43 +28,8 @@ transacao_id INT AUTO_INCREMENT PRIMARY KEY,
 descricao VARCHAR(45),
 valor DECIMAL (10,2),
 data DATE,
-tipo ENUM ("Receita", "Despesa")…
-[18:40, 16/01/2025] Mateus: CREATE DATABASE gestao_financeiro;
-USE gestao_financeiro;
+tipo ENUM ("Receita", "Despesa"));
 
-CREATE TABLE usuarios(
-usuario_id INT AUTO_INCREMENT PRIMARY KEY,
-nome VARCHAR (100),
-email VARCHAR (45),
-data_registro DATE);
-
-CREATE TABLE categorias(
-categoria_id INT AUTO_INCREMENT PRIMARY KEY,
-nome VARCHAR (45),
-tipo ENUM ("Receita", "Despesa"),
-usuario_id INT,
-FOREIGN KEY (usuario_id) REFERENCES usuarios (usuario_id));
-
-CREATE TABLE metas(
-meta_id INT AUTO_INCREMENT PRIMARY KEY,
-descricao VARCHAR(45),
-valor_alvo DECIMAL(10,2),
-prazo DATE,
-progresso DECIMAL(10,2),
-usuario_id INT,
-FOREIGN KEY (usuario_id) REFERENCES usuarios (usuario_id));
-
-CREATE TABLE transacoes(
-transacao_id INT AUTO_INCREMENT PRIMARY KEY,
-descricao VARCHAR(45),
-valor DECIMAL (10,2),
-data DATE,
-tipo ENUM ("Receita", "Despesa"),
-status ENUM ("Pendente","Concluida"),
-categoria_id INT,
-usuario_id INT,
-FOREIGN KEY (categoria_id) REFERENCES categorias (categoria_id),
-FOREIGN KEY (usuario_id) REFERENCES usuarios (usuario_id));
 
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (1,"Leandro Gomes","Leandro149@gmail.com",'2023-04-03');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (2,"Guilherme Goncalves ","Guilherme784@gmail.com",'2023-04-03');
@@ -73,7 +38,7 @@ INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (4,"Paulo Olive
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (5,"Jessica Alves","Jessica615@gmail.com",'2023-04-05');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (6,"Joana Sousa","Joana841@gmail.com",'2023-04-05');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (7,"Bruna Oliveira","BrunaOliveira1466@gmail.com",'2023-04-06');
-INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (8,"Matehus Pereira","matheus555@gmail.com",'2023-04-06');
+INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (8,"Matheus Pereira","matheus555@gmail.com",'2023-04-06');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (9,"Eduardo Teixeira","Eduardo100809@gmail.com",'2023-04-06');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (10,"Rafael Messias","rafaelmessias040316@gmail.com",'2023-04-06');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (11,"Maria Santos","maria185@gmail.com","2023-04-07");
