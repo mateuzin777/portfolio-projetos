@@ -42,6 +42,13 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fproje
 ## Link do Er Diagram : 
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fprojeto%204%20-%20Er%20Diagram.pdf
 
+## Projeto 05- Sistema de Gestão financeiro 
+
+**Descrição**: 
+Sistema financeiro simples para gerenciamento de usuários, categorias, metas e transações financeiras, desenvolvido como parte do aprendizado em banco de dados e programação.
+
+
+
 
 
 
