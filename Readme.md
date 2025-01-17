@@ -47,6 +47,17 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fproje
 **Descrição**: 
 Sistema financeiro simples para gerenciamento de usuários, categorias, metas e transações financeiras, desenvolvido como parte do aprendizado em banco de dados e programação.
 
+**Funcionalidades**: 
+
+Usuários: Gerenciamento de perfis com categorias e metas financeiras próprias.
+
+Categorias: Organização de transações (alimentação, transporte, lazer, etc.).
+
+Metas: Definição de metas financeiras com valores e prazos.
+
+Transações: Registro de entradas e saídas financeiras, com data, descrição e valores.
+
+Link do Repositório:
 
 
 
