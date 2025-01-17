@@ -2,10 +2,11 @@ CREATE DATABASE gestao_financeiro;
 USE gestao_financeiro;
 
 CREATE TABLE usuarios(
-usuario_id INT AUTO_INCREMENT PRIMARY KEY,
-nome VARCHAR (100),
-email VARCHAR (45),
-data_registro DATE);
+    usuario_id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(45) NOT NULL,
+    data_registro DATE NOT NULL
+);
 
 CREATE TABLE categorias(
 categoria_id INT AUTO_INCREMENT PRIMARY KEY,
