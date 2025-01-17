@@ -57,7 +57,12 @@ Metas: Definição de metas financeiras com valores e prazos.
 
 Transações: Registro de entradas e saídas financeiras, com data, descrição e valores.
 
-Link do Repositório:
+## Link do Repositório:
+https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20gestao%20financeiro.sql
+
+##Link do Er Diagram: 
+
+
 
 
 
