@@ -23,13 +23,17 @@ progresso DECIMAL(10,2),
 usuario_id INT,
 FOREIGN KEY (usuario_id) REFERENCES usuarios (usuario_id));
 
-CREATE TABLE transacoes(
-transacao_id INT AUTO_INCREMENT PRIMARY KEY,
-descricao VARCHAR(45),
-valor DECIMAL (10,2),
-data DATE,
-tipo ENUM ("Receita", "Despesa"));
-
+CREATE TABLE transacoes (
+    transacao_id INT AUTO_INCREMENT PRIMARY KEY,
+    descricao VARCHAR(45),
+    valor DECIMAL(10,2),
+    data DATE,
+    tipo ENUM ("Receita", "Despesa"),
+    status ENUM("Concluida", "Pendente"),
+    categoria_id INT,
+    usuario_id INT,
+    FOREIGN KEY (categoria_id) REFERENCES categorias(categoria_id),
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(usuario_id));
 
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (1,"Leandro Gomes","Leandro149@gmail.com",'2023-04-03');
 INSERT INTO usuarios(usuario_id,nome,email,data_registro) VALUES (2,"Guilherme Goncalves ","Guilherme784@gmail.com",'2023-04-03');
