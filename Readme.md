@@ -46,6 +46,7 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fproje
 
 **Descrição**: 
 Sistema financeiro simples para gerenciamento de usuários, categorias, metas e transações financeiras, desenvolvido como parte do aprendizado em banco de dados e programação.
+** Tecnologias ** : MySQL, Git, GitHub, Etc..
 
 **Funcionalidades**: 
 
@@ -67,7 +68,52 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20-ER%20
 
 **Descrição**:
 
-Este projeto tem como objetivo o desenvolvimento de um sistema de gestão clínica médica. Ele permite a gestão eficiente de médicos, pacientes, consultas, exames e pagamentos, proporcionando uma interface intuitiva para que a clínica possa controlar suas operações de forma organizada.
+Este projeto tem como objetivo o desenvolvimento de um sistema de gestão clínica médica com foco no gerenciamento de médicos, pacientes, consultas, exames e pagamentos. O sistema permite o registro de informações essenciais para o funcionamento de uma clínica, facilitando o agendamento de consultas, o controle de exames e o gerenciamento financeiro das consultas realizadas.
+** Tecnologias ** : MySQL, Git, GitHub, Etc..
+
+**Funcionalidades**:
+
+1. Cadastro de Médicos:
+
+Cadastro de médicos, incluindo informações como nome, especialidade, e-mail e telefone.
+
+Atribuição de médicos às consultas conforme a especialidade.
+
+
+
+2. Cadastro de Pacientes:
+
+Registro de dados dos pacientes, como nome, data de nascimento, telefone e endereço.
+
+Relacionamento com consultas e exames realizados.
+
+
+
+3. Gestão de Consultas:
+
+Agendamento de consultas entre médicos e pacientes.
+
+Definição do status da consulta: "agendada", "concluída" ou "cancelada".
+
+Acompanhamento da data e hora de cada consulta.
+
+
+
+4. Gestão de Exames:
+
+Registro de exames realizados, com nome, descrição, preço e vínculo com o paciente.
+
+Facilita o controle de exames que os pacientes realizaram como parte do acompanhamento médico.
+
+
+
+5. Gestão de Pagamentos:
+
+Controle dos pagamentos realizados pelos pacientes pelas consultas.
+
+Registro de informações sobre valor, data de pagamento e forma de pagamento.
+
+## Link do Repositório:
 
 
 
