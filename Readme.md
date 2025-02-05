@@ -161,7 +161,7 @@ Registro de informações sobre valor, data de pagamento e forma de pagamento.
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto06.sql
 
 ## Link do Er Diagram : 
-
+https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto06.pdf
 
 
 
