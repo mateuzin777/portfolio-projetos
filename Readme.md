@@ -46,6 +46,7 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fproje
 
 **Descrição**: 
 Sistema financeiro simples para gerenciamento de usuários, categorias, metas e transações financeiras, desenvolvido como parte do aprendizado em banco de dados e programação.
+
 ** Tecnologias ** : MySQL, Git, GitHub, Etc..
 
 **Funcionalidades**: 
@@ -114,6 +115,7 @@ Controle dos pagamentos realizados pelos pacientes pelas consultas.
 Registro de informações sobre valor, data de pagamento e forma de pagamento.
 
 ## Link do Repositório:
+https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto06.sql
 
 
 
