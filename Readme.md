@@ -34,7 +34,7 @@ Aqui você encontrará todos os meus projetos e contribuições.
 
 **Descrição** :
 O Sistema de Gestão de Restaurante** visa automatizar o controle de Clientes,Pedidos, Funcionários, Pagamentos e Pratos em um ambiente de restaurante. O sistema permite o cadastro de clientes e funcionários, gerenciamento de pedidos e pagamentos, além de organizar o cardápio com pratos e suas categorias, o sistema busca melhorar a eficiência e a organização do estabelecimento.
-** Tecnologias ** : MySQL, Git, GitHub, Etc.
+**Tecnologias** : MySQL, Git, GitHub, Etc.
 
 ## link do Repositório: 
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fprojeto4.sql
@@ -70,7 +70,7 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20-ER%20
 **Descrição**:
 
 Este projeto tem como objetivo o desenvolvimento de um sistema de gestão clínica médica com foco no gerenciamento de médicos, pacientes, consultas, exames e pagamentos. O sistema permite o registro de informações essenciais para o funcionamento de uma clínica, facilitando o agendamento de consultas, o controle de exames e o gerenciamento financeiro das consultas realizadas.
-** Tecnologias ** : MySQL, Git, GitHub, Etc..
+**Tecnologias** : MySQL, Git, GitHub, Etc..
 
 **Funcionalidades**:
 
@@ -116,6 +116,8 @@ Registro de informações sobre valor, data de pagamento e forma de pagamento.
 
 ## Link do Repositório:
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto06.sql
+
+## Link do Er Diagram : 
 
 
 
