@@ -65,6 +65,10 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20-ER%20
 
 ## Projeto 06- Sistema de Gestão clínica 
 
+**Descrição**:
+
+Este projeto tem como objetivo o desenvolvimento de um sistema de gestão clínica médica. Ele permite a gestão eficiente de médicos, pacientes, consultas, exames e pagamentos, proporcionando uma interface intuitiva para que a clínica possa controlar suas operações de forma organizada.
+
 
 
 
