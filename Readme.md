@@ -63,6 +63,8 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20gestao
 ## Link do Er Diagram: 
 https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20-ER%20Diagram%20%20gest%C3%A3o%20financeiro.pdf
 
+## Projeto 06- Sistema de Gestão clínica 
+
 
 
 
