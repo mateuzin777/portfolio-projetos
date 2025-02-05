@@ -23,7 +23,15 @@ GitHub: Repositório remoto para versionamento e compartilhamento do código.
 
 ## Projeto 02 - Biblioteca
 **Descrição**: Este projeto consiste em um sistema de gerenciamento de biblioteca, com funcionalidades para gerenciar livros, autores e empréstimos.  
-**Tecnologias**: MySQL, Git, GitHub, etc. 
+
+Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
  
 ## Link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto2-Biblioteca.sql
 
