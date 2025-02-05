@@ -61,7 +61,15 @@ GitHub: Repositório remoto para versionamento e compartilhamento do código.
 
 **Descrição** :
 O Sistema de Gestão de Restaurante** visa automatizar o controle de Clientes,Pedidos, Funcionários, Pagamentos e Pratos em um ambiente de restaurante. O sistema permite o cadastro de clientes e funcionários, gerenciamento de pedidos e pagamentos, além de organizar o cardápio com pratos e suas categorias, o sistema busca melhorar a eficiência e a organização do estabelecimento.
-**Tecnologias** : MySQL, Git, GitHub, Etc.
+
+Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
 
 ## link do Repositório: 
 https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fprojeto4.sql
