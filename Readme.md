@@ -6,8 +6,16 @@ Aqui você encontrará todos os meus projetos e contribuições.
 
 ## Projeto 01 - Loja Esportiva Virtual
 **Descrição**: Este projeto consiste em um sistema de vendas de uma loja virtual de produtos esportivos, desenvolvido com funcionalidades para gerenciar clientes, itens de pedidos, produtos e pedidos.  
-**Tecnologias**: MySQL, PHP, GitHub, etc. 
- 
+
+ Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
+
 ## Link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto01_loja_esportiva_virtual
 
 ### Er Diagram : https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%20Er%20Diagram.pdf 
@@ -23,7 +31,18 @@ Aqui você encontrará todos os meus projetos e contribuições.
 
 ## Projeto 03 - Gestão De cursos 
 ** Descrição** : Este projeto é um sistema de gestão de cursos desenvolvido com MySQL, que permite o gerenciamento de cursos, aulas, usuários e inscrições. A solução foi projetada para facilitar a administração de um ambiente educacional online, permitindo que os administradores cadastrem cursos, criem aulas associadas a esses cursos, e gerenciem as inscrições de usuários nos cursos disponíveis.
-** Tecnologias ** : MySQL, Git, GitHub, Etc..
+
+
+Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
+
+
 
 ## link do Repositório: https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%203.sql
 
@@ -47,7 +66,15 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/projeto%2004%2Fproje
 **Descrição**: 
 Sistema financeiro simples para gerenciamento de usuários, categorias, metas e transações financeiras, desenvolvido como parte do aprendizado em banco de dados e programação.
 
-** Tecnologias ** : MySQL, Git, GitHub, Etc..
+Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
+
 
 **Funcionalidades**: 
 
@@ -70,9 +97,17 @@ https://github.com/mateuzin777/portfolio-projetos/blob/main/Projeto%205%20-ER%20
 **Descrição**:
 
 Este projeto tem como objetivo o desenvolvimento de um sistema de gestão clínica médica com foco no gerenciamento de médicos, pacientes, consultas, exames e pagamentos. O sistema permite o registro de informações essenciais para o funcionamento de uma clínica, facilitando o agendamento de consultas, o controle de exames e o gerenciamento financeiro das consultas realizadas.
-**Tecnologias** : MySQL, Git, GitHub, Etc..
 
-**Funcionalidades**:
+Tecnologias Utilizadas:
+
+MySQL: Banco de dados relacional utilizado para armazenar as informações.
+
+Git: Controle de versão do projeto.
+
+GitHub: Repositório remoto para versionamento e compartilhamento do código.
+
+
+**Funcionalidades**: 
 
 1. Cadastro de Médicos:
 
